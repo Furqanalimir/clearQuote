@@ -1,0 +1,4 @@
+{
+  "mongoURI":"mongodb+srv://ali:9622818566@devops.ojv4x.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "UserKey": "secretxyz"
+}
